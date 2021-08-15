@@ -1,3 +1,8 @@
+---
+title: Website Setup
+tags: static site, website
+---
+
 
 # 🖥️ Website Setup essentials 🖥️ 
 
