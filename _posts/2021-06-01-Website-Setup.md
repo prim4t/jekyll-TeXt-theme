@@ -3,7 +3,7 @@
 layout: article
 title: Website Setup
 mathjax: true
-tags: static site, website
+tags: static site website
 ---
 
 
